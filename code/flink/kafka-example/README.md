@@ -9,9 +9,11 @@
   ![image](https://user-images.githubusercontent.com/83798953/173732109-470f9374-ca76-420b-9216-7b08060cb4c8.png)
 
  2.1 : read message 
- 
+      ![image](https://user-images.githubusercontent.com/83798953/173733033-e19af3e6-a5c4-4f7e-9609-f9c363829e7a.png)
+
  2.2 : decode message using avro 
- 
+      ![image](https://user-images.githubusercontent.com/83798953/173733094-872742d7-692f-49cb-9830-8a3804c81545.png)
+
  2.3 : analysis realtime  
     If you click vegetables or rice twice, it will suggest buying meat 
-    
+    ![image](https://user-images.githubusercontent.com/83798953/173732800-57317417-0aba-4309-be30-954cc17b26ac.png)
