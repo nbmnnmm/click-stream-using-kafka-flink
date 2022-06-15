@@ -17,3 +17,6 @@
  2.3 : analysis realtime  
     If you click vegetables or rice twice, it will suggest buying meat 
     ![image](https://user-images.githubusercontent.com/83798953/173732800-57317417-0aba-4309-be30-954cc17b26ac.png)
+3 : Build jars and submit to flink cluster : 
+    ![image](https://user-images.githubusercontent.com/83798953/173733607-9790a685-9dca-46b3-9c0c-203cc4369f50.png)
+    ![image](https://user-images.githubusercontent.com/83798953/173733683-22bc7dec-b9f1-4b02-91c7-814c88295a09.png)
