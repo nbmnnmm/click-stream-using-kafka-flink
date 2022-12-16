@@ -40,12 +40,9 @@ public class flink_kafka {
         StreamExecutionEnvironment env = StreamExecutionEnvironment.getExecutionEnvironment();
         SimpleStringSchema schema = new SimpleStringSchema();
         FlinkKafkaConsumer010 consumer = new FlinkKafkaConsumer010<>("test1", new SimpleStringSchema(), props);
-
+        loadDB db = new loadDB();
+        db.load();
         DataStream msgStream = env.addSource(consumer);
-
-
-
-
 
         msgStream.flatMap(new Deserailizer())
                 .keyBy(x -> {
